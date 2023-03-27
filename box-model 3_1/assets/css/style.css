@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+main div:nth-child(1){ 
+    height: 700px;
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: rgb(118, 188, 118);
+    margin: 5px;
+    
+
+}
+
+
+div:nth-child(2) {
+    padding: 50px 100px;
+}
+
+img {
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    margin: 30px 0px;
+    padding-left: 30px;
+   
+}
+
+
+    
+
+div a {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    margin: 0px 10px;
+}
+
+div:nth-child(4) {
+    text-align: center;
+}
+
+
+
+
+
